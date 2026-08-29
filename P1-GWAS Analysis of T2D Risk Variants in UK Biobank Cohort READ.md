@@ -3,18 +3,28 @@
 ### Summary
 
 ### Methodology
-Data Sources =
+
+Data Sources
+|Name                    |URL                            |Summary.                  |
+|————————————————————————|———————————————————————————————|————————————————————————- |
+|UK Biobank              |[https://www.ukbiobank.ac.uk/] |Genotype & phenotype data |
+|GWAS Summary Statistics |                               |                          |
+
 Tools used = 
+
 Analytical Techniques = 
+
 • Descriptive analytics (trends, paterns)
+
 • Predictive modelling (time-series, patterns)
+
 • Automation (Python EDA)
 
-### Results
+### Results
 
-### Discussion
+### Discussion
 
-### Recommendations
+### Recommendations
 
 ### Appendix - Code & Technical Details
 
