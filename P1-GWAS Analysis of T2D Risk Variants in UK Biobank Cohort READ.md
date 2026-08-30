@@ -5,10 +5,10 @@
 ### Methodology
 
 Data Sources
-|Name                    |URL                            |Summary.                  |
-|————————————————————————|———————————————————————————————|————————————————————————- |
-|UK Biobank              |[https://www.ukbiobank.ac.uk/] |Genotype & phenotype data |
-|GWAS Summary Statistics |                               |                          |
+| Name | URL | Summary |
+| - | - | - |
+| UK Biobank | [https://www.ukbiobank.ac.uk/] | Genotype & phenotype data |
+| GWAS Summary Statistics | - | - |
 
 Tools used = 
 
