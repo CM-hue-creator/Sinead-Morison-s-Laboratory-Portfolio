@@ -1,4 +1,4 @@
-# Genome-Wide Association Study (GWAS) Analysis of Type 2 Diabetes Risk Variants in a UK Biobank Cohort
+# Genome-Wide Association Study (GWAS) Analysis of Type 2 Diabetes Risk Variants in a UK Biobank Cohort
 
 ### Summary
 
