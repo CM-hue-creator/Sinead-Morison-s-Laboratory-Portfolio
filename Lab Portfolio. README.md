@@ -25,7 +25,8 @@
 ### Data and technical skills
 ***
 **Project 1 =**
-Code =
+
+Code = 
 
 Aim/Goal =
 
