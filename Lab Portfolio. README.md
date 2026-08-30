@@ -23,7 +23,7 @@
 
 ***
 ### Data and technical skills
-
+***
 **Project 1 =**
 Code =
 
@@ -38,7 +38,7 @@ Skills =
 Technology =
 
 Results =
-
+***
 **Project 2 =**
 Code =
 
@@ -53,7 +53,23 @@ Skills =
 Technology =
 
 Results =
+***
+**Project 3 =**
 
+Code = 
+
+Aim/Goal =
+
+Objectives =
+
+Description =
+
+Skills =
+
+Technology =
+
+Results =
+***
 **Project 3 =**
 
 Code = 
