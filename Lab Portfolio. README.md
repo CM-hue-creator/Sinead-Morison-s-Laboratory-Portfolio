@@ -41,7 +41,8 @@ Technology =
 Results =
 ***
 **Project 2 =**
-Code =
+
+Code = https://github.com/CM-hue-creator/Sinead-Morison-s-Laboratory-Portfolio/blob/5af881064f0ee85eab3b6eef5aec60d9966c17f7/Project%202%20READ.md
 
 Aim/Goal =
 
@@ -55,6 +56,7 @@ Technology =
 
 Results =
 ***
+
 **Project 3 =**
 
 Code = 
@@ -71,6 +73,7 @@ Technology =
 
 Results =
 ***
+
 **Project 3 =**
 
 Code = 
